@@ -6,7 +6,7 @@ I built this app to practice the basics of frontend development and understand h
 
 ## Live Project Link
 
-Vercel URL: [Add your deployed link here]
+Vercel URL: https://tasks-management-app-drab.vercel.app/
 
 ## What I Built
 
